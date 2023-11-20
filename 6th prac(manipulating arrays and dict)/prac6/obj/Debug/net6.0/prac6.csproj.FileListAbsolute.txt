@@ -1,0 +1,14 @@
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\6th prac(manipulating arrays and dict)\prac6\obj\Debug\net6.0\prac6.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\6th prac(manipulating arrays and dict)\prac6\obj\Debug\net6.0\prac6.AssemblyInfoInputs.cache
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\6th prac(manipulating arrays and dict)\prac6\obj\Debug\net6.0\prac6.AssemblyInfo.cs
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\6th prac(manipulating arrays and dict)\prac6\obj\Debug\net6.0\prac6.csproj.CoreCompileInputs.cache
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\6th prac(manipulating arrays and dict)\prac6\bin\Debug\net6.0\prac6.exe
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\6th prac(manipulating arrays and dict)\prac6\bin\Debug\net6.0\prac6.deps.json
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\6th prac(manipulating arrays and dict)\prac6\bin\Debug\net6.0\prac6.runtimeconfig.json
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\6th prac(manipulating arrays and dict)\prac6\bin\Debug\net6.0\prac6.dll
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\6th prac(manipulating arrays and dict)\prac6\bin\Debug\net6.0\prac6.pdb
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\6th prac(manipulating arrays and dict)\prac6\obj\Debug\net6.0\prac6.dll
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\6th prac(manipulating arrays and dict)\prac6\obj\Debug\net6.0\refint\prac6.dll
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\6th prac(manipulating arrays and dict)\prac6\obj\Debug\net6.0\prac6.pdb
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\6th prac(manipulating arrays and dict)\prac6\obj\Debug\net6.0\prac6.genruntimeconfig.cache
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\6th prac(manipulating arrays and dict)\prac6\obj\Debug\net6.0\ref\prac6.dll
