@@ -1,0 +1,14 @@
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\2nd practice\practice 2\bin\Debug\net6.0\practice 2.exe
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\2nd practice\practice 2\bin\Debug\net6.0\practice 2.deps.json
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\2nd practice\practice 2\bin\Debug\net6.0\practice 2.runtimeconfig.json
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\2nd practice\practice 2\bin\Debug\net6.0\practice 2.dll
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\2nd practice\practice 2\bin\Debug\net6.0\practice 2.pdb
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\2nd practice\practice 2\obj\Debug\net6.0\practice 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\2nd practice\practice 2\obj\Debug\net6.0\practice 2.AssemblyInfoInputs.cache
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\2nd practice\practice 2\obj\Debug\net6.0\practice 2.AssemblyInfo.cs
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\2nd practice\practice 2\obj\Debug\net6.0\practice 2.csproj.CoreCompileInputs.cache
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\2nd practice\practice 2\obj\Debug\net6.0\practice 2.dll
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\2nd practice\practice 2\obj\Debug\net6.0\refint\practice 2.dll
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\2nd practice\practice 2\obj\Debug\net6.0\practice 2.pdb
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\2nd practice\practice 2\obj\Debug\net6.0\practice 2.genruntimeconfig.cache
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\2nd practice\practice 2\obj\Debug\net6.0\ref\practice 2.dll
