@@ -61,7 +61,7 @@ class Program
                     DateTime dateTime = DateTime.Now;
                     Console.WriteLine($"{randomKey} has been borrowed at {dateTime}");
                     Library.Remove(randomKey);
-                    streamWriter.WriteLine($"{randomKey} has been borrowed at {dateTime}");
+                    streamWriter.WriteLine($"{randomKey} has been borrowed by {members} at {dateTime}");
                 }
                 else
                 {
