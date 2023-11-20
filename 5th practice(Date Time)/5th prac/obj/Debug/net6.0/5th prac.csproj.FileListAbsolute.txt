@@ -1,0 +1,14 @@
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\5th practice(Date Time)\5th prac\bin\Debug\net6.0\5th prac.exe
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\5th practice(Date Time)\5th prac\bin\Debug\net6.0\5th prac.deps.json
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\5th practice(Date Time)\5th prac\bin\Debug\net6.0\5th prac.runtimeconfig.json
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\5th practice(Date Time)\5th prac\bin\Debug\net6.0\5th prac.dll
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\5th practice(Date Time)\5th prac\bin\Debug\net6.0\5th prac.pdb
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\5th practice(Date Time)\5th prac\obj\Debug\net6.0\5th prac.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\5th practice(Date Time)\5th prac\obj\Debug\net6.0\5th prac.AssemblyInfoInputs.cache
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\5th practice(Date Time)\5th prac\obj\Debug\net6.0\5th prac.AssemblyInfo.cs
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\5th practice(Date Time)\5th prac\obj\Debug\net6.0\5th prac.csproj.CoreCompileInputs.cache
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\5th practice(Date Time)\5th prac\obj\Debug\net6.0\5th prac.dll
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\5th practice(Date Time)\5th prac\obj\Debug\net6.0\refint\5th prac.dll
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\5th practice(Date Time)\5th prac\obj\Debug\net6.0\5th prac.pdb
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\5th practice(Date Time)\5th prac\obj\Debug\net6.0\5th prac.genruntimeconfig.cache
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\5th practice(Date Time)\5th prac\obj\Debug\net6.0\ref\5th prac.dll
