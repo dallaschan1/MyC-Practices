@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5cqL120GWEir72c5QWITzNhEVTLkmYkcZTfsBE65a0s/G45DBg6zbfNJyGPA0C5x7xng7Gxo+dLAuer9XmRS1A==",
+  "success": true,
+  "projectFilePath": "C:\\PRG ASSIGNMENTS C# PRACTICES\\MyC-Practices\\My First Game prac 8\\My First Game prac 8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hins8\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\hins8\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}

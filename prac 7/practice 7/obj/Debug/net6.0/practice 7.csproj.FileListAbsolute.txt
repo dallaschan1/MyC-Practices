@@ -1,0 +1,14 @@
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\prac 7\practice 7\bin\Debug\net6.0\practice 7.exe
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\prac 7\practice 7\bin\Debug\net6.0\practice 7.deps.json
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\prac 7\practice 7\bin\Debug\net6.0\practice 7.runtimeconfig.json
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\prac 7\practice 7\bin\Debug\net6.0\practice 7.dll
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\prac 7\practice 7\bin\Debug\net6.0\practice 7.pdb
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\prac 7\practice 7\obj\Debug\net6.0\practice 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\prac 7\practice 7\obj\Debug\net6.0\practice 7.AssemblyInfoInputs.cache
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\prac 7\practice 7\obj\Debug\net6.0\practice 7.AssemblyInfo.cs
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\prac 7\practice 7\obj\Debug\net6.0\practice 7.csproj.CoreCompileInputs.cache
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\prac 7\practice 7\obj\Debug\net6.0\practice 7.dll
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\prac 7\practice 7\obj\Debug\net6.0\refint\practice 7.dll
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\prac 7\practice 7\obj\Debug\net6.0\practice 7.pdb
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\prac 7\practice 7\obj\Debug\net6.0\practice 7.genruntimeconfig.cache
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\prac 7\practice 7\obj\Debug\net6.0\ref\practice 7.dll

@@ -1,0 +1,14 @@
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\prac 7\ShapeApp\bin\Debug\net6.0\ShapeApp.exe
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\prac 7\ShapeApp\bin\Debug\net6.0\ShapeApp.deps.json
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\prac 7\ShapeApp\bin\Debug\net6.0\ShapeApp.runtimeconfig.json
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\prac 7\ShapeApp\bin\Debug\net6.0\ShapeApp.dll
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\prac 7\ShapeApp\bin\Debug\net6.0\ShapeApp.pdb
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\prac 7\ShapeApp\obj\Debug\net6.0\ShapeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\prac 7\ShapeApp\obj\Debug\net6.0\ShapeApp.AssemblyInfoInputs.cache
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\prac 7\ShapeApp\obj\Debug\net6.0\ShapeApp.AssemblyInfo.cs
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\prac 7\ShapeApp\obj\Debug\net6.0\ShapeApp.csproj.CoreCompileInputs.cache
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\prac 7\ShapeApp\obj\Debug\net6.0\ShapeApp.dll
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\prac 7\ShapeApp\obj\Debug\net6.0\refint\ShapeApp.dll
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\prac 7\ShapeApp\obj\Debug\net6.0\ShapeApp.pdb
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\prac 7\ShapeApp\obj\Debug\net6.0\ShapeApp.genruntimeconfig.cache
+C:\PRG ASSIGNMENTS C# PRACTICES\MyC-Practices\prac 7\ShapeApp\obj\Debug\net6.0\ref\ShapeApp.dll
