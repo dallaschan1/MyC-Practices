@@ -1,0 +1,14 @@
+C:\Programming GitHub Container for my c#\MyC-Practices\7th prac\PhoneApp_S10258596G\PhoneApp_S10258596G\obj\Debug\net6.0\PhoneApp_S10258596G.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming GitHub Container for my c#\MyC-Practices\7th prac\PhoneApp_S10258596G\PhoneApp_S10258596G\obj\Debug\net6.0\PhoneApp_S10258596G.AssemblyInfoInputs.cache
+C:\Programming GitHub Container for my c#\MyC-Practices\7th prac\PhoneApp_S10258596G\PhoneApp_S10258596G\obj\Debug\net6.0\PhoneApp_S10258596G.AssemblyInfo.cs
+C:\Programming GitHub Container for my c#\MyC-Practices\7th prac\PhoneApp_S10258596G\PhoneApp_S10258596G\obj\Debug\net6.0\PhoneApp_S10258596G.csproj.CoreCompileInputs.cache
+C:\Programming GitHub Container for my c#\MyC-Practices\7th prac\PhoneApp_S10258596G\PhoneApp_S10258596G\bin\Debug\net6.0\PhoneApp_S10258596G.exe
+C:\Programming GitHub Container for my c#\MyC-Practices\7th prac\PhoneApp_S10258596G\PhoneApp_S10258596G\bin\Debug\net6.0\PhoneApp_S10258596G.deps.json
+C:\Programming GitHub Container for my c#\MyC-Practices\7th prac\PhoneApp_S10258596G\PhoneApp_S10258596G\bin\Debug\net6.0\PhoneApp_S10258596G.runtimeconfig.json
+C:\Programming GitHub Container for my c#\MyC-Practices\7th prac\PhoneApp_S10258596G\PhoneApp_S10258596G\bin\Debug\net6.0\PhoneApp_S10258596G.dll
+C:\Programming GitHub Container for my c#\MyC-Practices\7th prac\PhoneApp_S10258596G\PhoneApp_S10258596G\bin\Debug\net6.0\PhoneApp_S10258596G.pdb
+C:\Programming GitHub Container for my c#\MyC-Practices\7th prac\PhoneApp_S10258596G\PhoneApp_S10258596G\obj\Debug\net6.0\PhoneApp_S10258596G.dll
+C:\Programming GitHub Container for my c#\MyC-Practices\7th prac\PhoneApp_S10258596G\PhoneApp_S10258596G\obj\Debug\net6.0\refint\PhoneApp_S10258596G.dll
+C:\Programming GitHub Container for my c#\MyC-Practices\7th prac\PhoneApp_S10258596G\PhoneApp_S10258596G\obj\Debug\net6.0\PhoneApp_S10258596G.pdb
+C:\Programming GitHub Container for my c#\MyC-Practices\7th prac\PhoneApp_S10258596G\PhoneApp_S10258596G\obj\Debug\net6.0\PhoneApp_S10258596G.genruntimeconfig.cache
+C:\Programming GitHub Container for my c#\MyC-Practices\7th prac\PhoneApp_S10258596G\PhoneApp_S10258596G\obj\Debug\net6.0\ref\PhoneApp_S10258596G.dll
